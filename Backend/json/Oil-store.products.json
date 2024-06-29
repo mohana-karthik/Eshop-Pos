@@ -1,0 +1,178 @@
+[{
+  "_id": {
+    "$oid": "666436d61132950d2833c60d"
+  },
+  "title": "Fortune Sunlite Refined Sunflower Oil",
+  "slug": "fortune-sunlite-refined-sunflower-oil-5l-jar",
+  "description": "<h1><strong>About this item</strong></h1><ul><li>SCCA; Light and healthy that is easy to digest</li><li>Rich in vitamins, which keeps skin healthy</li><li>Strengthens the immune system</li><li>Good for the heart</li><li>Material Features: Vegetarian; Item Form: Liquid</li></ul>",
+  "price": 970,
+  "category": "Sunflower Oil",
+  "brand": "Fortune",
+  "quantity": 100,
+  "sold": 0,
+  "images": [
+    {
+      "public_id": "gzqxqyupjuw7vvdm4b6j",
+      "url": "https://res.cloudinary.com/dymmundgz/image/upload/v1717843666/gzqxqyupjuw7vvdm4b6j.jpg",
+      "_id": {
+        "$oid": "666436d61132950d2833c60e"
+      }
+    }
+  ],
+  "color": [
+    {
+      "$oid": "666435fa1132950d2833c5fa"
+    },
+    {
+      "$oid": "666436031132950d2833c5fe"
+    },
+    {
+      "$oid": "666436101132950d2833c602"
+    }
+  ],
+  "tags": "featured",
+  "totalrating": "0",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-06-08T10:47:50.239Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T10:47:50.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666437501132950d2833c621"
+  },
+  "title": "AMRUTVA Cold Pressed Black Sesame(Gingelly)",
+  "slug": "amrutva-cold-pressed-black-sesame(gingelly)-oil-500-ml-or-naturally-cholesterol-free-with-rich-aroma-for-daily-cooking-with-multipurpose-usage",
+  "description": "<h1><strong>About this item</strong></h1><ul><li>Extracted from Farm-Fresh Black sesame seeds: Amrutva cold pressed black sesame oil is extracted from finest quality black sesame seeds proudly grown in India, using traditional wooden cold-press method.</li><li>100% Natural and Pure: Amrutva cold pressed black sesame oil is 100% pure, chemical-free, preservative-free, gluten-free and unrefined to ensure rich, nutty flavour and taste, aroma and nutritional properties.</li><li>Nutritional Value and Benefits: Amrutva cold pressed black sesame oil has various health benefits due to its nutrient composition. As we all know, black sesame seeds are naturally rich with essential vitamins, minerals, and high in fiber, good source of protein, calcium, iron, magnesium and omega-3 fatty acids; which in turn helps boost heart health, aid digestion and maintains a healthy immune system.</li><li>Multifunctional (Uses / Properties): Amrutva cold pressed black sesame oil can be used for salad dressing, garnishing, sauteing vegetables and works as a natural preservative for pickles. This oil works as a great option for skin and hair care and is also beneficial for baby’s massage. It is also ideal for oil pulling which in turn benefits immunity and oral health.</li><li>Quality Test: Amrutva cold pressed black sesame oil undergoes strict quality checks in our hi-tech and fully equipped in-house laboratory to acquire the best quality standards.</li><li>Storage and Design: Amrutva cold pressed black sesame oil can be stored in a cool and dry place with the lid tightly closed for a longer shelf life. It comes with an anti-spill bottle design to prevent any spillage.</li><li>Packaging: Amrutva cold pressed black sesame oil is packed in a sturdy 500 ml. pet bottle.</li></ul><p><br></p>",
+  "price": 459,
+  "category": "Sesame Oil",
+  "brand": "Emami",
+  "quantity": 250,
+  "sold": 0,
+  "images": [
+    {
+      "public_id": "brfou5tbqbfldwlrcexp",
+      "url": "https://res.cloudinary.com/dymmundgz/image/upload/v1717843789/brfou5tbqbfldwlrcexp.jpg",
+      "_id": {
+        "$oid": "666437501132950d2833c622"
+      }
+    }
+  ],
+  "color": [
+    {
+      "$oid": "666436101132950d2833c602"
+    },
+    {
+      "$oid": "666436031132950d2833c5fe"
+    },
+    {
+      "$oid": "666435f01132950d2833c5f6"
+    },
+    {
+      "$oid": "666435da1132950d2833c5ee"
+    }
+  ],
+  "tags": "popular",
+  "totalrating": "0",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-06-08T10:49:52.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T10:49:52.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666437c31132950d2833c637"
+  },
+  "title": "Jivo Cold Pressed Chemical Free Sunflower Oil ",
+  "slug": "jivo-cold-pressed-chemical-free-sunflower-oil-5-litre-orfor-roasting-frying-baking-all-type-of-cuisinesor",
+  "description": "<h1><strong>About this item</strong></h1><ul><li>Improves Heart Health.</li><li>Rich in Vitamin A D and Vitamin E which help in promoting skin health.</li><li>Helps the skin cells to regenerate and prevent acne.</li><li>Prevents Asthma.</li><li>Improves Immune System.</li><li>Contains essential fatty acids and is minimal in saturated fats - inherently devoid of cholesterol and sodium.</li></ul>",
+  "price": 689,
+  "category": "Sunflower Oil",
+  "brand": "Nature Fresh",
+  "quantity": 100,
+  "sold": 0,
+  "images": [
+    {
+      "public_id": "tnapb2omh4flu0lcpsc4",
+      "url": "https://res.cloudinary.com/dymmundgz/image/upload/v1717843903/tnapb2omh4flu0lcpsc4.jpg",
+      "_id": {
+        "$oid": "666437c31132950d2833c638"
+      }
+    }
+  ],
+  "color": [
+    {
+      "$oid": "666435e91132950d2833c5f2"
+    },
+    {
+      "$oid": "666435f01132950d2833c5f6"
+    },
+    {
+      "$oid": "666435fa1132950d2833c5fa"
+    },
+    {
+      "$oid": "666436101132950d2833c602"
+    }
+  ],
+  "tags": "featured",
+  "totalrating": "0",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-06-08T10:51:47.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T10:51:47.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666438571132950d2833c64a"
+  },
+  "title": "Fortune Premium Kachi Ghani Pure Mustard Oil",
+  "slug": "fortune-premium-kachi-ghani-pure-mustard-oil-1-ltr-pouch",
+  "description": "<h1><strong>About this item</strong></h1><ul><li>Made from Cold Pressed (Kachi Ghani) Technology using Finest Mustard Seeds - Rich in Omega 3 &amp; 6 that boost Immunity</li><li>Rich in Vitamins A, E and Beta Carotene</li><li>Naturally Cholesterol Free</li><li>High in PUFA (Poly Unsaturated Fatty Acids)</li><li>High Pungency and Strong Aroma - Mustard Oil with Long Shelf Life</li></ul>",
+  "price": 200,
+  "category": "Corn Oil",
+  "brand": "Fortune",
+  "quantity": 100,
+  "sold": 0,
+  "images": [
+    {
+      "public_id": "bxycpd3a3x53yr07hgxh",
+      "url": "https://res.cloudinary.com/dymmundgz/image/upload/v1717844052/bxycpd3a3x53yr07hgxh.jpg",
+      "_id": {
+        "$oid": "666438571132950d2833c64b"
+      }
+    }
+  ],
+  "color": [
+    {
+      "$oid": "666435fa1132950d2833c5fa"
+    },
+    {
+      "$oid": "666436031132950d2833c5fe"
+    },
+    {
+      "$oid": "666436101132950d2833c602"
+    }
+  ],
+  "tags": "featured",
+  "totalrating": "0",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-06-08T10:54:15.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T10:54:15.225Z"
+  },
+  "__v": 0
+}]
